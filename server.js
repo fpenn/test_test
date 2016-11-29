@@ -49,10 +49,4 @@ app.get('/', function(request, response) {
 	});
 
 
-
-
-
-
-
-
-	var server = app.listen(3000);
+var server = app.listen(3000);

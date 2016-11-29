@@ -12,12 +12,12 @@ body{
 
 	width: 100%;
 	height: 120px;
-	background-color: #E8EBF0;
+	background-color: white;
 	margin-top: -40px;
 	position: fixed;
 	display: block;
 	z-index: 98;
-	border-bottom: 2px solid white;
+	border-bottom: 2px solid #E8EBF0;
 		
 }
 
@@ -32,7 +32,7 @@ body{
 
 #buttons a{
 	margin-right: 30px;
-	color: #004E72;
+	color: #b0b0b0;
 	font-size: 18px;
 }
 
